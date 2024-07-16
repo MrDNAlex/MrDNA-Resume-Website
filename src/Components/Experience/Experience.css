@@ -1,0 +1,30 @@
+.experience {
+    border: 5px solid black;
+    border-radius: 20px;
+    display: grid;
+    align-items: center;
+    background-color: #202020;
+    height: 85vh;
+    margin: 5vh 5vw 5vh 5vw;
+    place-items: center;
+    background-image: url('../../NanoDNA\ Studios\ Logo\ Circular.png');
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}
+
+.experience-row {
+    display: flex;
+    max-height: 20vh;
+    width: 100%; /* Container takes full width of its parent */
+    height: auto; /* Height is adjusted based on the content */
+    align-items: center; /* Align images vertically */
+    justify-content: space-evenly; /* Distribute space evenly around images */
+}
+
+
+
+
+
+

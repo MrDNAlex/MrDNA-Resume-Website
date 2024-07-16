@@ -1,0 +1,22 @@
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    place-items: center;
+    margin: 5vh 5vw 5vh 5vw;
+}
+
+.grid-item {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: inherit;
+  }
+  
+  .central-item {
+    grid-column: 3; /* Places item in the second column */
+    grid-row: 2; /* Places item in the second row */
+    z-index: 1; /* Ensures it's above other items if overlapping */
+  }

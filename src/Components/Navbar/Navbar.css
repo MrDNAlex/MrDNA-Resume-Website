@@ -1,0 +1,27 @@
+
+.navbar 
+{
+    background-color: blueviolet;
+    padding: 10px;
+    height: 5vh;
+    display: flex;
+    text-align: center;
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.navbar li {
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline;
+    margin-right: 10px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
