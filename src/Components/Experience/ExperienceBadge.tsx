@@ -8,7 +8,7 @@ import "./ExperienceBadge.css";
 
 class ExperienceBadge extends Component {
 
-    Image: string = lumentum2;
+    Image: string = logo2;
 
     MouseOver = (e: React.MouseEvent<HTMLImageElement, MouseEvent>) => {
         e.currentTarget.style.zIndex = '100';
