@@ -1,6 +1,6 @@
 {
   "name": "mrdna-resume-website",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://MrDNAlex.github.io/MrDNA-Resume-Website",
   "private": true,
   "dependencies": {
