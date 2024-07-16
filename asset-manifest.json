@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MrDNA-Resume-Website/static/css/main.d4362dd7.css",
+    "main.js": "/MrDNA-Resume-Website/static/js/main.b42cad7b.js",
+    "static/js/453.0065324d.chunk.js": "/MrDNA-Resume-Website/static/js/453.0065324d.chunk.js",
+    "static/media/NanoDNA Studios Logo Circular.png": "/MrDNA-Resume-Website/static/media/NanoDNA Studios Logo Circular.1d0ae3468a5c22c57f60.png",
+    "static/media/Lumentum2.png": "/MrDNA-Resume-Website/static/media/Lumentum2.02076cb7ba5ab9249b02.png",
+    "index.html": "/MrDNA-Resume-Website/index.html",
+    "main.d4362dd7.css.map": "/MrDNA-Resume-Website/static/css/main.d4362dd7.css.map",
+    "main.b42cad7b.js.map": "/MrDNA-Resume-Website/static/js/main.b42cad7b.js.map",
+    "453.0065324d.chunk.js.map": "/MrDNA-Resume-Website/static/js/453.0065324d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4362dd7.css",
+    "static/js/main.b42cad7b.js"
+  ]
+}
